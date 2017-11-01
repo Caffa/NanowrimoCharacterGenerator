@@ -1,0 +1,21 @@
+# 1 Nov 2017 8:57:39 PM
+## Summary
+Today I wrote a basic character generator 
+- At first, it was all in one file
+- Later, separated general data (to pick from) and the character generator (picker)
+- Improved on the Json
+- Used a python script to process an excel into json
+
+## Current Versions
+- Better Character Generator
+- Better Generator
+- Word Processing (misc scripts)
+- Resources (here are all the data - I changed a bit of it - from github for my random data needs)
+
+## Status CheckIn
+Total time spent: 6 hours?
+Current Status: All working
+Character Generator generates:
+- Name (first, mid, last) according to family (kinda class) & gender
+- Gender
+- Greeting (basic, for show)
